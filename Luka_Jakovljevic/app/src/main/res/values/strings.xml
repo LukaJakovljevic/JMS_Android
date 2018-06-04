@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kod Luke</string>
+    <string name="naruci">Naruči</string>
+    <string name="izaberite_jelo">Izaberite jelo</string>
+    <string name="izaberite_pice">Izaberite piće</string>
+    <string name="nacin_isporuke">Način isporuke</string>
+    <string name="dodatni_komentar">Dodatni komentar :</string>
+    <string name="prvojelo">Palačinke</string>
+    <string name="drugojelo">Sendvič</string>
+    <string name="prvopice">Kafa</string>
+    <string name="drugopice">Sok</string>
+    <string name="za_poneti">Za poneti</string>
+    <string name="u_restoranu">Poslužiti u restoranu</string>
+    <string name="poruci">Poruči</string>
+    <string name="labela1por">Ovo je vaša porudžbina :</string>
+    <string name="hrana">Hrana :</string>
+    <string name="pice">Piće :</string>
+    <string name="isporuka">Isporuka : </string>
+</resources>
